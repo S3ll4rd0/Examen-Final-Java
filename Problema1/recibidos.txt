@@ -1,0 +1,4 @@
+Origen: 123
+Destino: 123
+Asunto: 123
+Mensaje: 123
